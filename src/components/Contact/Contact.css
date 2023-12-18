@@ -1,0 +1,82 @@
+
+.form-name{
+    width: 100%;
+margin-bottom: 5%;
+border-radius: 5px;
+border: 1px solid white;
+padding: 1rem;
+margin-top: 8px;
+background-color: white
+}
+.form-email{
+    width: 100%;
+margin-bottom: 5%;
+border-radius: 5px;
+border: 1px solid white;
+padding: 1rem;
+margin-top: 8px;
+background-color: white;
+
+
+}
+.form-msg{
+    width: 100%;
+margin-bottom: 5%;
+border-radius: 5px;
+border: 1px solid white;
+padding: 1rem;
+margin-top: 8px;
+height: 200px;
+background-color: white;
+
+
+}
+.form-btn{
+    border-radius: 5px;
+    border: 1px solid white;
+    height: 50px;
+    width: 150px;
+    float: right;
+    background-color:  #1f1f38;
+    color: white;
+}
+.form-btn:hover{
+    background-color: lightblue ;
+    color: #1f1f38;
+    transition: 0.5s;
+}
+
+
+/* --------------------------- */
+
+
+.contact-links{
+    text-decoration: none;
+    width: 100%;
+    border-radius: 50px;
+    display: flex;
+    margin-top: 30px;
+}
+
+
+.icons{
+font-size: 39px;
+color: lightblue;
+width: 100%;
+background-color:  #1f1f38;
+border: 1px solid lightblue;
+
+padding: 5px;
+border-radius: 20px;
+padding-right: 20px;
+text-align: center;
+}
+
+
+.icons:hover{
+    background-color: lightblue ;
+    color: #1f1f38;
+    transition: 0.5s;
+}
+
+
